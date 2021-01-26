@@ -1,0 +1,3 @@
+Resolusi 2021
+- membuat platform
+- membuat forum diskusi
